@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "cli-chat"
+name = "cli-chat-client"
 version = "0.1.0"
